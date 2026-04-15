@@ -57,7 +57,7 @@ project/
 
 ⚙️ INSTALLATION:
 1. Clone Repository:
-   git clone https://github.com/your-username/video-resizer.git
+   git clone https://github.com/NayabAshraf/Video-Resizing-Tool.git
    cd video-resizer
 
 2. Install Dependencies:
