@@ -1,0 +1,9 @@
+ffmpeg-python
+fastapi
+uvicorn[standard]
+python-multipart   
+streamlit
+requests
+aiofiles
+gunicorn
+slowapi
